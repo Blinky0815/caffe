@@ -43,6 +43,7 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
-    
+
+## ISSUES and FIXES
 10/31/2018
 Fixed issues regarding HDF5_HL, OpenCV 3.x and  contrastive_loss_layer to make it work on an Ubuntu 18.04 system.
